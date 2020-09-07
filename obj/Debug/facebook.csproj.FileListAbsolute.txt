@@ -1,0 +1,426 @@
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\ApplicationInsights.config
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\roslyn\csc.exe
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\roslyn\System.Collections.Immutable.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\roslyn\vbc.exe
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\roslyn\VBCSCompiler.exe
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\roslyn\VBCSCompiler.exe.config
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\facebook.dll.config
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\facebook.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\facebook.pdb
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Antlr3.Runtime.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\EntityFramework.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\EntityFramework.SqlServer.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.AI.Web.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.AI.WindowsServer.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.ApplicationInsights.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.Owin.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.Owin.Security.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.Owin.Security.Google.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.Web.Infrastructure.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Newtonsoft.Json.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Owin.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\System.Web.Helpers.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\System.Web.Mvc.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\System.Web.Optimization.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\System.Web.Razor.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\System.Web.WebPages.Deployment.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\System.Web.WebPages.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\System.Web.WebPages.Razor.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\WebGrease.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.AI.Web.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.AI.WindowsServer.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.ApplicationInsights.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\System.Web.Helpers.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\System.Web.Mvc.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\System.Web.Optimization.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\System.Web.Razor.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\System.Web.WebPages.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\System.Web.WebPages.Deployment.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\System.Web.WebPages.Razor.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Antlr3.Runtime.pdb
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Newtonsoft.Json.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\EntityFramework.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\EntityFramework.SqlServer.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.Owin.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.Owin.Security.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.Owin.Security.Google.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\obj\Debug\facebook.csprojResolveAssemblyReference.cache
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\obj\Debug\facebook.dll
+c:\users\sinem\onedrive\belgeler\visual studio 2015\Projects\facebook\facebook\obj\Debug\facebook.pdb
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\ApplicationInsights.config
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\roslyn\csc.exe
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\roslyn\vbc.exe
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\facebook.dll.config
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\facebook.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\facebook.pdb
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Antlr3.Runtime.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\EntityFramework.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\EntityFramework.SqlServer.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.AI.Web.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.Owin.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.Owin.Security.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\MySql.Data.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Newtonsoft.Json.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Owin.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\System.Web.Helpers.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\System.Web.Mvc.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\System.Web.Optimization.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\System.Web.Razor.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\System.Web.WebPages.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\WebGrease.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.AI.Web.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\System.Web.Helpers.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\System.Web.Mvc.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\System.Web.Optimization.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\System.Web.Razor.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\System.Web.WebPages.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Antlr3.Runtime.pdb
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Newtonsoft.Json.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\EntityFramework.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\EntityFramework.SqlServer.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.Owin.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.Owin.Security.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\obj\Debug\facebook.csprojResolveAssemblyReference.cache
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\obj\Debug\facebook.dll
+C:\Users\Yunus\Desktop\facebook\facebook\facebook\obj\Debug\facebook.pdb
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\ApplicationInsights.config
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\roslyn\csc.exe
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\roslyn\vbc.exe
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\facebook.dll.config
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\facebook.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\facebook.pdb
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Antlr3.Runtime.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\EntityFramework.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\EntityFramework.SqlServer.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.AI.Web.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.Owin.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.Owin.Security.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\MySql.Data.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Newtonsoft.Json.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Owin.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\System.Web.Helpers.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\System.Web.Mvc.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\System.Web.Optimization.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\System.Web.Razor.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\System.Web.WebPages.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\WebGrease.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.AI.Web.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\System.Web.Helpers.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\System.Web.Mvc.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\System.Web.Optimization.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\System.Web.Razor.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\System.Web.WebPages.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Antlr3.Runtime.pdb
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Newtonsoft.Json.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\EntityFramework.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\EntityFramework.SqlServer.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.Owin.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.Owin.Security.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\obj\Debug\facebook.csprojResolveAssemblyReference.cache
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\obj\Debug\facebook.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\obj\Debug\facebook.pdb
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Yunus\Desktop\facebookk\facebook\facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\ApplicationInsights.config
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\roslyn\csc.exe
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\roslyn\vbc.exe
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\roslyn\VBCSCompiler.exe
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\facebook.dll.config
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\facebook.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\facebook.pdb
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Antlr3.Runtime.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\EntityFramework.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\EntityFramework.SqlServer.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.AI.Web.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.Owin.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.Owin.Security.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Newtonsoft.Json.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Owin.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\System.Web.Helpers.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\System.Web.Mvc.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\System.Web.Optimization.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\System.Web.Razor.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\System.Web.WebPages.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\System.Web.WebPages.Razor.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\WebGrease.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.AI.Web.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\System.Web.Helpers.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\System.Web.Mvc.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\System.Web.Optimization.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\System.Web.Razor.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\System.Web.WebPages.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\System.Web.WebPages.Razor.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Antlr3.Runtime.pdb
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Newtonsoft.Json.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\EntityFramework.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\EntityFramework.SqlServer.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.Owin.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.Owin.Security.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\obj\Debug\facebook.csprojResolveAssemblyReference.cache
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\obj\Debug\facebook.dll
+C:\Users\sinem\Desktop\feysbuk\facebook\facebook\obj\Debug\facebook.pdb
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\ApplicationInsights.config
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\roslyn\csc.exe
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\roslyn\vbc.exe
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\roslyn\VBCSCompiler.exe
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\facebook.dll.config
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\facebook.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\facebook.pdb
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Antlr3.Runtime.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\EntityFramework.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\EntityFramework.SqlServer.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.AI.Web.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.Owin.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.Owin.Security.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Newtonsoft.Json.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Owin.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\System.Web.Helpers.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\System.Web.Mvc.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\System.Web.Optimization.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\System.Web.Razor.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\System.Web.WebPages.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\System.Web.WebPages.Razor.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\WebGrease.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.AI.Web.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\System.Web.Helpers.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\System.Web.Mvc.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\System.Web.Optimization.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\System.Web.Razor.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\System.Web.WebPages.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\System.Web.WebPages.Razor.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Antlr3.Runtime.pdb
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Newtonsoft.Json.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\EntityFramework.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\EntityFramework.SqlServer.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.Owin.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.Owin.Security.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\obj\Debug\facebook.csprojResolveAssemblyReference.cache
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\obj\Debug\facebook.dll
+C:\Users\sinem\Desktop\Facebook Benzeri Sosyal paylaşım platformu\FACEBOOK\facebook\facebook\obj\Debug\facebook.pdb
+C:\Users\sinem\Desktop\FACEBOOK\obj\Debug\facebook.dll
+C:\Users\sinem\Desktop\FACEBOOK\obj\Debug\facebook.pdb

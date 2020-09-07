@@ -1,0 +1,71 @@
+﻿@model facebook.Models.GonderiViewModel
+@{
+    ViewBag.Title = "Anasayfa";
+}
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Shadow</title>
+
+    <link rel="stylesheet" href="~/Content/style.css">
+</head>
+<body>
+
+    <link href="http://fonts.googleapis.com/css?family=Didact+Gothic" rel="stylesheet" type="text/css">
+
+    <img src="@Model.KullaniciResim" />
+
+    @using (Html.BeginForm("GonderiKaydet", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        @Html.TextArea("Description", null, new { placeholder = "Neler Düşünüyorsun?", @class = "gonderiText" })
+
+        <table>
+            <tr>
+                <td>Resim</td>
+                <td>
+                    <input type="file" name="Resim" value="" />
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <input class="form-control" type="submit" name="btnEkle" value="Paylaş" />
+                </td>
+            </tr>
+        </table>
+    }
+
+    @Html.Label("", new { @class = "col-md-2 control-label" })
+    <div>
+        @foreach (var gonderi in Model.Gonderiler)
+        {
+            <div class="wrap">
+                <div class="box box1 shadow1" style="height: 500px; ">
+
+                    <div class="top-left">
+                        
+                            <h1>@gonderi.Ad @gonderi.Soyad</h1>
+                       
+                        <h1> @gonderi.Gonderi</h1>
+                        <div align="center">
+
+                            <h1>
+                                <img src="@gonderi.GonderiResim"/>
+                            </h1>
+
+                        </div>
+                        <h2>@gonderi.GonderiZamani</h2>
+
+                    </div>
+                </div>
+            </div>
+        }
+        @Html.Partial("KullaniciListesi")
+    </div>
+</body>
+</html>
+<script type="text/javascript">
+</script>
+
+
+

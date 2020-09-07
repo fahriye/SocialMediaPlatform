@@ -1,0 +1,82 @@
+﻿@model facebook.Models.GonderiViewModel
+@{
+    ViewBag.Title = "Anasayfa";
+}
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Shadow</title>
+
+    <link rel="stylesheet" href="~/Content/style.css">
+    <style>
+    </style>
+</head>
+
+
+<body>
+    @*@foreach (var kullanici in Model.Kullanicilar)
+        {
+
+            if (kullanici.AktifMi)
+            {
+                <img src='@Url.Content("~/Content/Resimler/aktif.png")'  title="Kullanıcı Aktif" />
+
+            }
+            else
+            {
+                <img src='@Url.Content("~/Content/Resimler/pasif.png")' title="Kullanıcı Pasif" />
+            }
+
+             <h3>@kullanici.Adi @kullanici.Soyadi</h3>
+        }*@
+
+
+
+
+
+    <table id='kullaniciListe'>
+        @if (Model.Kullanicilar.Count == 1)
+        {
+            <h2>Kullanıcı Yok</h2>
+        }
+        else
+        {
+            <h4 class="">Kullanıcılar</h4>
+            foreach (var item in Model.Kullanicilar)
+            {
+
+                <tr>
+                    <td>
+                        @if (item.AktifMi)
+                        {
+                            <img src='@Url.Content("~/Content/Resimler/aktif.png")' title="Kullanıcı Aktif" />
+
+                        }
+                        else
+                        {
+                            <img src='@Url.Content("~/Content/Resimler/pasif.png")' title="Kullanıcı Pasif" />
+                        }
+
+                    </td>
+
+                    <td>@Html.DisplayFor(modelItem => item.Adi)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Soyadi)</td>
+                    <td>@Html.HiddenFor(modelItem => item.KullaniciId)</td>
+                    <td>
+
+                        <a href='@Url.Action("SohbetPenceresi", "Home", new
+                                                                                                       {
+                                                                                                           MesajiAlanKullaniciId = item.KullaniciId,
+                                                                                                           MesajiAlanKullaniciAdi = item.Adi,
+                                                                                                           GonderenKullaniciId = Session["KullaniciId"],
+                                                                                                           GonderenKullaniciAdi = Session["KullaniciAdi"]
+                                                                                                       })'>
+                       sohbet </a>
+                    </td>
+                </tr>
+            }
+        }
+
+    </table>
+</body>
+</html>

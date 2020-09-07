@@ -1,0 +1,60 @@
+﻿@model facebook.Models.KullaniciSohbetListesiModel
+@{Layout = null;}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="~/Scripts/jquery-1.6.4.min.js"></script>
+    <script src="~/Scripts/jquery.signalR-2.1.0.min.js"></script>
+    <script src="~/SignalR/Hubs"></script>
+    <script>
+    $(function () {
+
+        var chat = $.connection.chatHub;
+        var $username = '@Model.GonderenKullaniciAdi'; 
+        var $userId = '@Model.GonderenKullaniciId';
+        var $aliciAdi = '@Model.MesajiAlanKullaniciAdi';
+        var $aliciId = '@Model.MesajiAlanKullaniciId';
+        var $message = $('#txtMessage');
+        var $messages = $('#messages');
+        $message.focus();
+        chat.client.sendMessage = function (name, userId, aliciAdi, aliciId, message) {
+
+            var messageModel = JSON.parse(message);
+            $messages.append('<li><strong>' + messageModel.Nick + '</strong>: ' + messageModel.Message + '</li>');
+        };
+
+        $.connection.hub.start().done(function () {
+            $('#btnSendMessage').click(function () { 
+
+                chat.server.send($username, $userId, $aliciAdi, $aliciId, $message.val());
+
+                $message.val('').focus();
+            });
+        });
+    });
+
+   </script>
+</head>
+<body>
+<div>
+    @if(Model.KullaniciSohbetleri != null) {
+         foreach (var gonderi in Model.KullaniciSohbetleri)
+         {
+
+             if (gonderi.MesajiAlanKullaniciId == Model.MesajiAlanKullaniciId)
+             {
+                 <h3>Ben: @gonderi.Mesaj</h3>
+             }
+             else
+             {
+                 <h3>@gonderi.GonderenKullaniciAdi : @gonderi.Mesaj</h3>
+             }
+         }
+    }
+    <label for="txtMessage">Mesaj: </label> @Html.TextBox("txtMessage") <button id="btnSendMessage">@Model.MesajiAlanKullaniciAdi adlı kişiye Mesaj Yolla</button>
+</div>
+<div id="messages"></div>
+</body>
+</html>
